@@ -6,6 +6,7 @@
     <string name="segunda_banda_color">Segunda banda de color</string>
     <string name="multiplicador">Multiplicador</string>
     <string name="valor_de_la_resistencia">Valor de la resistencia</string>
+    <string name="calcular">Calcular</string>
 
     <string-array name="color_list">
         <item>Negro (0)</item>
