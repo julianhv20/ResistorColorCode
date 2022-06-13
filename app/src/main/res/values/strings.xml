@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">ResistorColorCode</string>
+    <string name="color2resistance">COLOR2RESISTANCE</string>
+    <string name="primera_banda_color">Primera banda de color</string>
+    <string name="color_dropdown">Color</string>
+    <string name="segunda_banda_color">Segunda banda de color</string>
+    <string name="multiplicador">Multiplicador</string>
+    <string name="valor_de_la_resistencia">Valor de la resistencia</string>
+
+    <string-array name="color_list">
+        <item>Negro (0)</item>
+        <item>Cafe (1)</item>
+        <item>Rojo (2)</item>
+        <item>Naranja (3)</item>
+        <item>Amarillo (4)</item>
+        <item>Verde (5)</item>
+        <item>Azul (6)</item>
+        <item>Violeta (7)</item>
+        <item>Gris (8)</item>
+        <item>Blanco (9)</item>
+    </string-array>
+
+    <string-array name="multiplicador_list">
+        <item>Negro (x1)</item>
+        <item>Cafe (x10)</item>
+        <item>Rojo (x100)</item>
+        <item>Naranja (x1k)</item>
+        <item>Amarillo (x10k)</item>
+        <item>Verde (x100k)</item>
+        <item>Azul (x1M)</item>
+        <item>Violeta (x10M)</item>
+        <item>Gris (x100M)</item>
+        <item>Blanco (x1G)</item>
+        <item>Oro (x0.1)</item>
+        <item>Plata (x0.01)</item>
+
+    </string-array>
+
+
+</resources>
